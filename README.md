@@ -2,12 +2,10 @@
 Data Scientist with NLP, Computer Vision, Machine Learning and Deep Learning expertise. I have experience working with cross-functional teams across the world.
 
 ### Skills
-**Programming Languages**: Python, SQL, PySpark
-**Artificial Intelligence**: Machine Learning, Deep Learning, NLP, Computer Vision, A/B testing, Hypothesis Testing, Statistical Modelling
-**Cloud**: Azure, GCP, AWS
-**Software Development**: Git, Docker, Streamlit, Gradio
-
-Python | SQL | Machine Learning | Deep Learning | NLP | Computer Vision | Predictive Modelling | Azure | GCP | Power BI | Spark | GPT 4 |  PaLM | Git | DSA | A/B Testing | Docker 
+- **Programming Languages**: Python, SQL, PySpark
+- **Artificial Intelligence**: Machine Learning, Deep Learning, NLP, Computer Vision, A/B testing, Hypothesis Testing, Statistical Modelling
+- **Cloud**: Azure, GCP, AWS
+- **Software Development**: Git, Docker, Streamlit, Gradio
 
 ### Experience
 #### Data Scientist, Fractal Analytics
@@ -35,7 +33,7 @@ July 2021 - Present
   - Nominated for "Client Champion Award" for outstanding work
 
 ### Education
-B.Tech, IIT (BHU), Varanasi <div style='text-align:right'> 8.96/10 <div>
+B.Tech, IIT (BHU), Varanasi              8.96/10
 
 ### Projects
 - Anomaly Detection: Anomaly detection of ECG signals using various ML and DL techniques like CNN Autoencoders
