@@ -33,7 +33,7 @@ July 2021 - Present
   - Nominated for "Client Champion Award" for outstanding work
 
 ### Education
-B.Tech, IIT (BHU), Varanasi              8.96/10
+B.Tech, **IIT (BHU), Varanasi** <div style="text-align: right;"> 8.96/10 </div>
 
 ### Projects
 - Anomaly Detection: Anomaly detection of ECG signals using various ML and DL techniques like CNN Autoencoders
